@@ -1,3 +1,6 @@
+![](https://github.com/tomashubelbauer/${repo}/workflows/${name}/badge.svg)
+![](https://github.com/tomashubelbauer/${repo}/workflows/.github/workflows/${name.yml}/badge.svg)
+
 # Phantom Protocol
 
 This are just try-outs for now.
